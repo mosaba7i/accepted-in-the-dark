@@ -1,4 +1,4 @@
-A collection of LeetCode questions that I solved alone in the dark :p
+# A collection of LeetCode questions that I solved alone in the dark :p
 
 <table align="center">
   <tr>
