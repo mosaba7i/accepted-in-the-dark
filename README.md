@@ -1,7 +1,9 @@
-<p> A collection of LeetCode questions that i solved alone in the dark :p </p>
+A collection of LeetCode questions that I solved alone in the dark :p
+
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRpa25ubWoydGU3M2xqc2lpczBvMTBuanRmYm40cThtNXpoM3drNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eoFJSruUWf7qq1zNHD/giphy.gif" width="500">
 </p>
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
