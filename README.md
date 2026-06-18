@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
