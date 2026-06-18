@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
