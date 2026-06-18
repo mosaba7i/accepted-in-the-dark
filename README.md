@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0136-single-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
