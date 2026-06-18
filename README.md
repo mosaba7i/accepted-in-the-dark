@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
