@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
