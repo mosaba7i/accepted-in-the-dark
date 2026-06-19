@@ -1,9 +1,19 @@
-// i mean the question says no div allowed!!  i say i can do it with div anyway hehe
-// the thing is we have three cases ok ?
-// first one if num of zeros ar emore than 1 we have all the product equal to zero easy
-// second if num of zeros are only one we have all the product equal to zero except the index of that zero number 
-// thrid no zeros are there so product = product / the number itself :)
-//word to word bro draw everything beofre u solve hehe
+// I know the question says no div allowed
+// but I say I can do it with div anyway XD
+// The thing is we have 3 cases fellas:
+// case 1:
+// If the number of zeros is greater than 1
+// then every product will be 0 easy.
+// case 2:
+// If there is exactly one zero,
+// then every product will be 0 except for the index
+// containing that zero at that index the product
+// is the multip of all the non zero numbers.
+// case 3:
+// If there are no zeros
+// then:
+// product[i] = total_product / nums[i]
+// word for word bro Draw everything before you solve it hehe.
 int count_zeros(vector<int>& nums, vector<int>& zero)
 {
     int i = 0;
