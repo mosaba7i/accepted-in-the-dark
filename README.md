@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -112,4 +113,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
