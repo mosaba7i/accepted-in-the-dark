@@ -59,6 +59,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0709-to-lower-case) |
@@ -99,6 +101,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
