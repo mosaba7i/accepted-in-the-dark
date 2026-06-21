@@ -18,6 +18,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
@@ -46,6 +47,7 @@
 | [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
@@ -136,4 +138,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
