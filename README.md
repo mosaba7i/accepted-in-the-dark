@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0191-number-of-1-bits) |
 ## String Matching
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0191-number-of-1-bits) |
 ## Prefix Sum
 |  |
 | ------- |
