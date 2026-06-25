@@ -30,7 +30,7 @@ public:
         }
         if (s[j]) // if there are letters left that means num of words are bigger than the num of letters so wrong 
             return(false);
-        if (i< pattern.size())
+        if (i< pattern.size()) // if i < patter.size that means num of patterns are bigger than the num of words
             return(false);
         return(true); 
     }
