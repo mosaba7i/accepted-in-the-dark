@@ -18,15 +18,6 @@ public:
             return(true);
         TreeNode* r = n->right;
         TreeNode* l = n->left;
-       
-        if(n && n->left == NULL && n->right == NULL)
-            return(true);
-        if(n && n->left != NULL && n->right == NULL)
-            return(false);
-        if(n && n->left == NULL && n->right != NULL)
-            return(false);
-        if(n && n->left->val != n->right->val)
-            return(false);
        function<void(TreeNode*,TreeNode*)> dfs = [&](TreeNode* n,TreeNode* n2)
         {
             if (!n && !n2)
