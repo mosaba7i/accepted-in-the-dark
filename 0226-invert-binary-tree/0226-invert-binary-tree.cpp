@@ -13,7 +13,6 @@
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
-        int count = 0;
         function<void(TreeNode*)> dfs = [&](TreeNode* n)
         {
             if (!n)
