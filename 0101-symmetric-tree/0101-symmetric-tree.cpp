@@ -13,11 +13,8 @@ class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
         int status = 1;
-        TreeNode* n = root;
-         if(!n)
+         if(!root)
             return(true);
-        TreeNode* r = n->right;
-        TreeNode* l = n->left;
        function<void(TreeNode*,TreeNode*)> dfs = [&](TreeNode* n,TreeNode* n2)
         {
             if (!n && !n2)
@@ -40,7 +37,7 @@ public:
         
         
         };
-        dfs(r,l);
+        dfs(root->right,root->left);
         return (status);
     }
 };
