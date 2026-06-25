@@ -107,6 +107,7 @@
 | [0069-sqrtx](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
 ## Trie
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0136-single-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0101-symmetric-tree](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -179,4 +182,5 @@
 | [0101-symmetric-tree](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
