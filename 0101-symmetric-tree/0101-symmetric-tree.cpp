@@ -14,10 +14,11 @@ public:
     bool isSymmetric(TreeNode* root) {
         int status = 1;
         TreeNode* n = root;
+         if(!n)
+            return(true);
         TreeNode* r = n->right;
         TreeNode* l = n->left;
-        if(!n)
-            return(true);
+       
         if(n && n->left == NULL && n->right == NULL)
             return(true);
         if(n && n->left != NULL && n->right == NULL)
