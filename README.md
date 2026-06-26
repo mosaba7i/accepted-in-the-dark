@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0088-merge-sorted-array) |
@@ -125,6 +126,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
