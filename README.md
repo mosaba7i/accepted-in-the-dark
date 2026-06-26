@@ -51,6 +51,7 @@
 | [0066-plus-one](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
@@ -121,6 +122,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0219-contains-duplicate-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
