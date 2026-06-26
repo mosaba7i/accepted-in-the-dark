@@ -17,6 +17,7 @@
 | [0035-search-insert-position](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
@@ -65,6 +67,7 @@
 | [0027-remove-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0167-two-sum-ii-input-array-is-sorted) |
