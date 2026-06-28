@@ -112,6 +112,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
 ## Binary Search
 |  |
@@ -214,5 +215,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
