@@ -1,26 +1,10 @@
-
-int get_index(string haystack, string needle)
-{
-    
-    int k = 0;   
-    while ( k < haystack.size() )
-    {
-        int i = 0;
-        int m = k;
-        while (needle[i] == haystack[m] && i < needle.size())
-            {
-                i++;
-                m++;
-            }
-            if (i == needle.size() && needle.size() != 0)
-                return (k);
-        k++;
-    }
-    return(-1);
-}
+//updated 2-> less lines
+// idk what to say i just found out about string.find() :p
+// but the imp of string.find has same comp as my last sub which is o(MxN)
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        return(get_index(haystack, needle));
+        return(haystack.find(needle));
+        
     }
 };
