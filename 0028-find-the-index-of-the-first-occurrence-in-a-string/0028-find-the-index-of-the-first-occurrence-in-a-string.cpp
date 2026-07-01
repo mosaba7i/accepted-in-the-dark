@@ -1,25 +1,18 @@
 
 int get_index(string haystack, string needle)
 {
-    int i =0;
-    int j =0;
-    int k = 0;
-    int l = 0;
-    while (haystack[j])
-        j++;
-    while (needle[l])
-        l++; 
     
-    while ( k < j )
+    int k = 0;   
+    while ( k < haystack.size() )
     {
-        i = 0;
+        int i = 0;
         int m = k;
-        while (needle[i] == haystack[m] && i < l)
+        while (needle[i] == haystack[m] && i < needle.size())
             {
                 i++;
                 m++;
             }
-            if (i == l && l != 0)
+            if (i == needle.size() && needle.size() != 0)
                 return (k);
         k++;
     }
