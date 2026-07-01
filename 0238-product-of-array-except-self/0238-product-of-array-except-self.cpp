@@ -1,5 +1,5 @@
 // updated 2 -> (optimized (less code new idea same o(n) time compx)
-// used idea of left and right cumulative var  
+// used the idea of left and right cumulative vars 
 
 class Solution {
 public:
