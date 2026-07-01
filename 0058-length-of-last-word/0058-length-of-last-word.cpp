@@ -1,35 +1,18 @@
-int get_lenght_last_word(string s)
-{
-    int i = 0;
-    while (s[i])
-    {
-        i++;
-    }
-    i--;
-    while (s[i] == ' ')
-        i--;
-    while (s[i] != ' ' && i > -1)
-    {
-        i--;
-        if (i == -1)
-            {
-                i++;
-                break ;
-            }
-    }
-    if (s[i] == ' ')
-        i++;
-    int k = 0;
-    while (s[i] && !(s[i] == ' '))
-    {
-        i++;
-        k++;
-    }
-    return(k);
-}
+//optimized (less larping :p)
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        return(get_lenght_last_word(s));
+       int i = s.size() - 1;
+       int size = 0;
+        while(i >= 0 && s[i] == ' ')
+            i--;
+        if ( i == -1)
+            return(0);
+        while(i >= 0 && s[i] != ' ')
+        {
+            size++;
+            i--;
+        }
+        return(size);
     }
 };
