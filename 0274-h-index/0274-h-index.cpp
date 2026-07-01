@@ -1,29 +1,17 @@
+//updated 2 - > optimized (used )
+// BASICALLY THE TIME COMPX WAS O(N^2) NOT OPTIMAL
+// used sort which is nlogn + n =~ nlogn which is better than n^2 for sure :)
 class Solution {
 public:
     int hIndex(vector<int>& citations) {
-        int count = 0;
-        int s = citations.size();
-        int i = 0;
-        int j = 0;
-        int k = 0;
-        k = s;
-        while (j < s)
-        {
-            count = 0;
-            i = 0;
-            while (i < s)
-            {
-                
-                if (citations[i] >= k)
-                    count++;
-                if (count >= k)
-                    return(k);
-                i++;
-
-            }
-            j++;
-            k--;
-        }
-        return(0);
+       sort(citations.begin(),citations.end());
+       int s = citations.size();
+       for(int i = 0 ; i < citations.size(); i++)
+       {
+            if (citations[i] >= s)
+                return(s);
+            s--;
+       }
+        return(s);
     }
 };
