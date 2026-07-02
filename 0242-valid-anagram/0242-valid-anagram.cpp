@@ -1,29 +1,26 @@
+//update 2 -> (optimized) :p
+// used unordered_map (easier and more readable)
+// the fun part is a simple == comp can do the sol XDD
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int i = 0;
-        int j = 0;
-        int count  = 0;
-        int size_met = s.size();
-        int size_left = 0;
-        while (i < s.size())
-        {
-            j = 0;
-            while (j < t.size())
-            {
-                if (s[i] == t[j])
-                {
-                    count ++;
-                    t.erase(t.begin()+ j);
-                    break ;
-                }
-                else
-                    j++;
-            }
-            i++;
-        }
-        size_left = t.size();
-        if (count == size_met && size_left == 0 )
+       unordered_map<char,int> ana;
+       unordered_map<char,int> word;
+       for(int i = 0; i < t.size();i++)
+       {
+            if (ana.find(t[i]) != ana.end())
+                ana[t[i]]++;
+            else
+                ana[t[i]] = 1;
+       }
+       for(int i = 0; i < s.size();i++)
+       {
+            if (word.find(s[i]) != word.end())
+                word[s[i]]++;
+            else
+                word[s[i]] = 1;
+       }
+        if(ana == word)
             return(true);
         return(false);
     }
