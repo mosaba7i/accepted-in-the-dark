@@ -61,6 +61,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -119,6 +120,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0190-reverse-bits](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
 ## Prefix Sum
 |  |
 | ------- |
