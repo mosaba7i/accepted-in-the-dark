@@ -2,35 +2,22 @@ class Solution {
 public:
     bool wordPattern(string pattern, string s) {
         unordered_map<char,string> key;
-         unordered_map<string,char> key2;
+        unordered_map<string,char> key2;
+        stringstream stream(s);
+        string word;
         int i = 0;
-        int j = 0;
-        int k = 0;
-        string tmp;
-        while (pattern[i] && s[j])
+        int word_count = 0;
+        while (stream >> word)
         {
-            if(s[j] && s[j] == ' ')
-                    j++;
-                k = j;
-                while (s[j] && s[j] != ' ')
-                    j++;
-            if(key.find(pattern[i]) == key.end() && key2.find(s.substr(k, j-k)) == key2.end())
-            {   
-                key[pattern[i]] =  s.substr(k, j-k);
-                key2[s.substr(k, j-k)] =  pattern[i];
-            }
-            else if (key[pattern[i]] == s.substr(k, j-k))
-                {
-                    i++;
-                    continue;
-                }
-            else
-                return(false);
+            if(key.find(pattern[i]) != key.end() && key[pattern[i]] != word ||  ((key2.find(word) != key2.end()) && ((key2[word] != pattern[i]))) )
+                return (false);
+
+            key[pattern[i]] = word;
+            key2[word] = pattern[i];
             i++;
+            word_count++;
         }
-        if (s[j]) // if there are letters left that means num of words are bigger than the num of letters so wrong 
-            return(false);
-        if (i< pattern.size()) // if i < patter.size that means num of patterns are bigger than the num of words
+         if (word_count != pattern.size())
             return(false);
         return(true); 
     }
