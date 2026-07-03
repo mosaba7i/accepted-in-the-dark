@@ -1,3 +1,6 @@
+// update -> less code
+// used count for less code
+// rem useless checks 
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
@@ -5,14 +8,14 @@ public:
          unordered_map<char,char> key2;
         int i = 0;
         string tmp;
-        while (s[i] && t[i])
+        while (i < s.size())
         {
-            if(key.find(s[i]) == key.end() && key2.find(t[i]) == key2.end())
+           if (!key.count(s[i]) && !key2.count(t[i]))
             {   
                 key[s[i]] =  t[i];
                 key2[t[i]] =  s[i];
             }
-            else if (key[s[i]] == t[i])
+            else if (key.count(s[i]) && key[s[i]] == t[i])
                 {
                     i++;
                     continue;
@@ -21,8 +24,6 @@ public:
                 return(false);
             i++;
         }
-        if (t[i] || s[i]) // if there are letters left that means either the s.size() > t.size() or the other way around and that would be always false
-            return(false);
         return(true); 
     }
 };
