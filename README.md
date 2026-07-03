@@ -26,6 +26,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0238-product-of-array-except-self) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 ## Counting Sort
@@ -87,6 +89,7 @@
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0290-word-pattern) |
