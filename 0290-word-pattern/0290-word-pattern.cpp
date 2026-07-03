@@ -1,4 +1,4 @@
-//optimized (using sttingstream for skipping whitespaces because it treates them as tokens and tokens are raw string with no space)
+//optimized (using sttingstream for skipping whitespaces because it treats them as tokens and tokens are raw string with no space)
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
