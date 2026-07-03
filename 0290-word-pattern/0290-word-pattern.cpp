@@ -1,3 +1,4 @@
+//optimized (using sttingstream for skipping whitespaces because it treates them as tokens and tokens are raw string with no space)
 class Solution {
 public:
     bool wordPattern(string pattern, string s) {
@@ -9,7 +10,11 @@ public:
         int word_count = 0;
         while (stream >> word)
         {
-            if(key.find(pattern[i]) != key.end() && key[pattern[i]] != word ||  ((key2.find(word) != key2.end()) && ((key2[word] != pattern[i]))) )
+              if (i >= pattern.size())
+                return false;
+            bool pattern_dont_match = key.count(pattern[i]) && key[pattern[i]] != word;
+            bool word_dont_match = (key2.count(word)) && (key2[word] != pattern[i]);
+            if(pattern_dont_match || word_dont_match)
                 return (false);
 
             key[pattern[i]] = word;
