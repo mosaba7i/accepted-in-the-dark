@@ -30,6 +30,7 @@
 | [0219-contains-duplicate-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -40,6 +41,7 @@
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 ## Counting Sort
 |  |
@@ -62,6 +64,7 @@
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
@@ -93,6 +96,7 @@
 | [0217-contains-duplicate](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
@@ -129,6 +133,7 @@
 | [0162-find-peak-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -164,6 +169,7 @@
 | [0191-number-of-1-bits](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
