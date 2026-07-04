@@ -34,6 +34,7 @@
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
+| [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Sorting
 |  |
@@ -104,6 +105,7 @@
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 ## String
 |  |
 | ------- |
@@ -124,6 +126,7 @@
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
+| [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 ## Recursion
 |  |
 | ------- |
