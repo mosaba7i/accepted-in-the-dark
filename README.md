@@ -103,6 +103,7 @@
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
+| [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
 ## Recursion
 |  |
 | ------- |
