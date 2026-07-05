@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
@@ -45,6 +46,7 @@
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -86,6 +88,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -101,6 +104,7 @@
 | [0242-valid-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
@@ -142,6 +146,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0349-intersection-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
