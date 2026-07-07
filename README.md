@@ -59,6 +59,7 @@
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## String
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Recursion
 |  |
 | ------- |
