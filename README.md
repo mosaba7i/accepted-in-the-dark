@@ -37,6 +37,7 @@
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
+| [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
