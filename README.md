@@ -77,6 +77,7 @@
 | [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
+| [3945-digit-frequency-score](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3945-digit-frequency-score](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
