@@ -7,11 +7,9 @@ public:
             key[t[i]]++;
         for(int i = 0; i < s.size();i++)
         {
-            if (key.count(s[i]) && key[s[i]] > -1)
+            if (key.count(s[i]) && key[s[i]] > 0)
                 key[s[i]]--;
-            if (key.count(s[i]) && key[s[i]] <= -1)
-                count++;
-            else if (!key.count(s[i]))
+            else
                 count++;
             
         }
