@@ -157,6 +157,7 @@
 | [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -227,6 +228,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0055-jump-game) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Stack
 |  |
 | ------- |
