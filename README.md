@@ -39,6 +39,7 @@
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
 ## Sorting
@@ -125,6 +126,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
@@ -209,6 +211,7 @@
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
