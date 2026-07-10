@@ -44,6 +44,7 @@
 | [3668-restore-finishing-order](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
+| [3895-count-digit-appearances](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3895-count-digit-appearances) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
+| [3895-count-digit-appearances](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
