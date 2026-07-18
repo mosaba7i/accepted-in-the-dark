@@ -47,6 +47,7 @@
 | [3731-find-missing-elements](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
 | [3895-count-digit-appearances](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3895-count-digit-appearances) |
+| [3925-concatenate-array-with-reverse](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
+| [3925-concatenate-array-with-reverse](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3925-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
 | ------- |
