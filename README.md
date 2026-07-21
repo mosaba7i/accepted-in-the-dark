@@ -172,6 +172,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3110-score-of-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
 |  |
