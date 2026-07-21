@@ -49,6 +49,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -111,6 +112,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -165,6 +167,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
