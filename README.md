@@ -49,6 +49,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3668-restore-finishing-order) |
@@ -110,6 +111,7 @@
 | [2769-find-the-maximum-achievable-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3783-mirror-distance-of-an-integer) |
