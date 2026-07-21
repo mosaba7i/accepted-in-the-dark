@@ -39,6 +39,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -227,6 +228,7 @@
 | [0067-add-binary](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
