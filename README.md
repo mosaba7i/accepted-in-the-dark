@@ -36,6 +36,7 @@
 | [0500-keyboard-row](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
+| [1512-number-of-good-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1920-build-array-from-permutation) |
@@ -80,6 +81,7 @@
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1512-number-of-good-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -101,6 +103,7 @@
 | [0231-power-of-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1512-number-of-good-pairs) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2469-convert-the-temperature) |
@@ -153,6 +156,7 @@
 | [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1512-number-of-good-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
