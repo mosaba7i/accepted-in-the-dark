@@ -46,6 +46,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
+| [2574-left-and-right-sum-differences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -271,6 +272,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2574-left-and-right-sum-differences) |
 ## Greedy
 |  |
 | ------- |
