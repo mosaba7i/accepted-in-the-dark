@@ -135,6 +135,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3794-reverse-string-prefix](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [2942-find-words-containing-character](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3794-reverse-string-prefix](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3794-reverse-string-prefix) |
 ## Recursion
 |  |
 | ------- |
