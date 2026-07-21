@@ -94,6 +94,7 @@
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3945-digit-frequency-score) |
