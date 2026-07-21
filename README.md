@@ -38,6 +38,7 @@
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1920-build-array-from-permutation) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
