@@ -45,6 +45,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2206-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2942-find-words-containing-character](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3668-restore-finishing-order) |
@@ -178,6 +179,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2942-find-words-containing-character](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
