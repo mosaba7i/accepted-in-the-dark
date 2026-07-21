@@ -100,6 +100,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2469-convert-the-temperature) |
+| [2769-find-the-maximum-achievable-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
