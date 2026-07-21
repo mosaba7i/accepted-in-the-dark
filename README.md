@@ -54,6 +54,7 @@
 | [3731-find-missing-elements](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
 | [3895-count-digit-appearances](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -323,4 +324,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
