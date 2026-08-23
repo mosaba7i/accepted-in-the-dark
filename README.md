@@ -83,6 +83,7 @@
 | [0169-majority-element](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0383-ransom-note) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -197,6 +198,7 @@
 | [0771-jewels-and-stones](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0055-jump-game) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Stack
