@@ -145,6 +145,7 @@
 | [0202-happy-number](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0392-is-subsequence) |
+| [2000-reverse-prefix-of-word](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -207,6 +208,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1816-truncate-sentence](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1816-truncate-sentence) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2000-reverse-prefix-of-word](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -296,6 +298,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2000-reverse-prefix-of-word](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
 | ------- |
