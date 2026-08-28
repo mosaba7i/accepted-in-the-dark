@@ -127,6 +127,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3783-mirror-distance-of-an-integer) |
 | [3895-count-digit-appearances](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3895-count-digit-appearances) |
 | [3945-digit-frequency-score](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [3110-score-of-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3794-reverse-string-prefix) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Recursion
 |  |
 | ------- |
