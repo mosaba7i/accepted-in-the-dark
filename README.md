@@ -217,6 +217,7 @@
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2942-find-words-containing-character](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3794-reverse-string-prefix) |
 | [3986-number-of-elapsed-seconds-between-two-times](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
@@ -267,6 +268,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3498-reverse-degree-of-a-string](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3701-compute-alternating-sum) |
 | [3842-toggle-light-bulbs](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3842-toggle-light-bulbs) |
 | [3925-concatenate-array-with-reverse](https://github.com/mosaba7i/accepted-in-the-dark/tree/master/3925-concatenate-array-with-reverse) |
